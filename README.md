@@ -7,4 +7,5 @@ Basic banking system application based on python-GUI. The application performs m
 5. Update profile details.
 6. Check Balance in account.
 7. Withdraw Amount from account.
+
 All this is data is maintained using SQLite database. 
